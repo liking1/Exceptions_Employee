@@ -1,0 +1,16 @@
+C:\Users\tlvla\source\repos\Exceptions111\Exceptions111\obj\Debug\net5.0\Exceptions111.csprojAssemblyReference.cache
+C:\Users\tlvla\source\repos\Exceptions111\Exceptions111\obj\Debug\net5.0\Exceptions111.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tlvla\source\repos\Exceptions111\Exceptions111\obj\Debug\net5.0\Exceptions111.AssemblyInfoInputs.cache
+C:\Users\tlvla\source\repos\Exceptions111\Exceptions111\obj\Debug\net5.0\Exceptions111.AssemblyInfo.cs
+C:\Users\tlvla\source\repos\Exceptions111\Exceptions111\obj\Debug\net5.0\Exceptions111.csproj.CoreCompileInputs.cache
+C:\Users\tlvla\source\repos\Exceptions111\Exceptions111\bin\Debug\net5.0\Exceptions111.exe
+C:\Users\tlvla\source\repos\Exceptions111\Exceptions111\bin\Debug\net5.0\Exceptions111.deps.json
+C:\Users\tlvla\source\repos\Exceptions111\Exceptions111\bin\Debug\net5.0\Exceptions111.runtimeconfig.json
+C:\Users\tlvla\source\repos\Exceptions111\Exceptions111\bin\Debug\net5.0\Exceptions111.runtimeconfig.dev.json
+C:\Users\tlvla\source\repos\Exceptions111\Exceptions111\bin\Debug\net5.0\Exceptions111.dll
+C:\Users\tlvla\source\repos\Exceptions111\Exceptions111\bin\Debug\net5.0\ref\Exceptions111.dll
+C:\Users\tlvla\source\repos\Exceptions111\Exceptions111\bin\Debug\net5.0\Exceptions111.pdb
+C:\Users\tlvla\source\repos\Exceptions111\Exceptions111\obj\Debug\net5.0\Exceptions111.dll
+C:\Users\tlvla\source\repos\Exceptions111\Exceptions111\obj\Debug\net5.0\ref\Exceptions111.dll
+C:\Users\tlvla\source\repos\Exceptions111\Exceptions111\obj\Debug\net5.0\Exceptions111.pdb
+C:\Users\tlvla\source\repos\Exceptions111\Exceptions111\obj\Debug\net5.0\Exceptions111.genruntimeconfig.cache
